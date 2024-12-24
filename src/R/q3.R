@@ -7,7 +7,6 @@ smallest_prime_factor <- function(n) {
   return(n)
 }
 
-# Function to find the largest prime factor
 find_largest_prime_factor <- function() {
   ques <- 600851475143
   while (TRUE) {
